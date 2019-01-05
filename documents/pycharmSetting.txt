@@ -1,0 +1,21 @@
+# 参考
+■ PyCharm のオレオレ最強設定
+https://akiyoko.hatenablog.jp/entry/2017/03/10/082912
+
+■ 既に最強なIntelliJ IDEAを更にパワーアップさせられる10個のプラグイン
+https://qiita.com/konohiroaki/items/b9a810702d87a0b6bb53
+
+・外観：Darcula
+・メモリインジケーターの表示
+・ヒープサイズ：2GBに増やす
+・行番号、空白表示
+・変更をマーク(*を付ける)
+・コード補完、大文字小文字を区別しない
+・エディタタブの制限を10⇒50
+・PEP8 違反の警告をweek warning ⇒ warning
+
+
+# プラグインの導入
+.ignore     ignoreファイルのテンプレート作成
+gfm         github markdown ファイルをプレビューしたり
+

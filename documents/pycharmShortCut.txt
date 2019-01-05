@@ -1,0 +1,22 @@
+# ショートカットキー
+■ 編集関連
+新規作成メニュー        Alt + Insert
+コード補完表示          Tab
+実行                    Ctrl + Shift + F10
+デバッグ実行            Ctrl + Shift + F9
+現在の行の複製          Ctrl + D
+コメント化              Ctrl + /
+名前の変更              Shift + F6
+リファクタ点検          波線でAlt + Enter
+
+■ タブ関連
+タブ移動                Ctrl + Alt + ← or →
+タブ/viewの切り替え     Ctrl + Tab
+アクティブタブを閉じる  Ctrl + F4
+
+■ 検索関連
+クイック検索            Shift × 2
+ファイル内検索          Ctrl + F
+grep 検索               Ctrl + Shift + F
+最近使ったファイル      Ctrl + e
+

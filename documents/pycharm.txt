@@ -1,0 +1,11 @@
+# 参考
+■ インストールから簡単なpycharmの使い方まで
+https://tonari-it.com/python-anaconda-install/
+
+■ pycharm help
+https://pleiades.io/help/pycharm/meet-pycharm.html
+
+■ pycharm日本語化
+https://qiita.com/suecharo/items/4d8774b43b0213527f9f
+https://qiita.com/cypher256/items/a87179fbe8dd7f63ec4e
+https://pleiades.io/pages/pleiades_jetbrains_manual.html
