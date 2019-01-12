@@ -1,0 +1,2 @@
+参考サイト：
+Python 標準ライブラリ      https://docs.python.jp/3/library/
