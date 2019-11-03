@@ -1,2 +1,57 @@
 参考サイト：
-Python 標準ライブラリ      https://docs.python.jp/3/library/
+Python 標準ライブラリ          https://docs.python.jp/3/library/
+抽象クラスを実装               https://docs.python.org/ja/3/library/abc.html
+
+PEP8 https://pep8-ja.readthedocs.io/ja/latest/
+ 概略　https://qiita.com/simonritchie/items/bb06a7521ae6560738a7
+
+Awesome Python：素晴らしい Python フレームワーク・ライブラリ・ソフトウェア・リソースの数々
+https://qiita.com/hatai/items/34c91d4ee0b54bd7cb8b
+https://www.techrepublic.com/article/learning-programming-languages-for-free-githubs-best-guides-for-python-developers/
+
+
+# docstringの書き方
+https://qiita.com/simonritchie/items/49e0813508cad4876b5a
+
+#type hinting
+https://qiita.com/methane/items/e95c578c3d8fc5f1f62e
+
+#導入するライブラリ
+-スクレイピング
+・requests
+https://requests-docs-ja.readthedocs.io/en/latest/
+
+・beautifulsoup4
+http://kondou.com/BS4/
+
+・icrawler(コードリーディングにもちょうどいいかも）
+https://icrawler.readthedocs.io/en/latest/
+
+演算
+・numpy
+
+グラフ
+・matplotlib
+
+-データ解析
+csv読み込んだり、出力したり、欠損データの保管、整形などなど
+・pandas
+http://pandas.pydata.org/
+
+- その他
+・discordのbot(コードリーディング用）
+https://github.com/Rapptz/RoboDanny/tree/rewrite/cogs/utils
+
+- ロギング
+Pythonでロギングを学ぼう
+https://qiita.com/__init__/items/91e5841ed53d55a7895e
+
+pythonのloggingモジュールでログ出力をする時に付加的な情報を出力する方法
+https://qiita.com/podhmo/items/efb65ed90871ba2ac544
+
+logging.config使ったpythonのロギングについてメモ
+https://takemikami.com/2016/06/11/loggingconfigpython.html
+
+
+python-twitter
+https://python-twitter.readthedocs.io/en/latest/

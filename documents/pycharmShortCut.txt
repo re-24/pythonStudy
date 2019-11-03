@@ -8,9 +8,19 @@
 コメント化              Ctrl + /
 名前の変更              Shift + F6
 リファクタ点検          波線でAlt + Enter
+前回修正箇所に移動      Ctrl  + Shift + BackSpace
+定義を確認              Ctrl + Shift + I
+定義へジャンプ          Ctrl + B
+ジャンプ元へ戻る/進む   Shift + Alt + ← or →
+クイックドキュメント    Ctrl + Q
+パラメータ情報確認      Ctrl + P
+
+
+■ プロジェクト
+プロジェクトウィンドウ切り替え     Ctrl + Alt + [ or ]
 
 ■ タブ関連
-タブ移動                Ctrl + Alt + ← or →
+タブ移動                Alt + ← or →
 タブ/viewの切り替え     Ctrl + Tab
 アクティブタブを閉じる  Ctrl + F4
 
